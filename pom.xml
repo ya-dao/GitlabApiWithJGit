@@ -106,7 +106,7 @@
         <!--    可以不写,但是写明版本了有助于发生依赖冲突时,maven可以采取最近定义的仲裁规则    -->
     </dependencies>
     <properties>
-        <jodd.version>5.1.3</jodd.version>
+        <jodd.version>6.2.1</jodd.version>
     </properties>
 
     <build>
